@@ -1,4 +1,4 @@
-# <img src="./misc/streaHMM_logo.png" width="100"> StreaHMM
+# <img src="./misc/streaHMM_logo.png" width="100"> hmmble
 
 A framework for combining hidden Markov models (HMMs) (and related models like conditional random fields (CRFs)) with modern deep learning.
 
