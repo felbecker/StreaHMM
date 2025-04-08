@@ -1,6 +1,6 @@
 # <img src="./misc/streaHMM_logo.png" width="100"> StreaHMM
 
-A framework for combining hidden Markov models (HMMs) and modern deep learning.
+A framework for combining hidden Markov models (HMMs) (and related models like conditional random fields (CRFs)) with modern deep learning.
 
 Targeted features:
 
