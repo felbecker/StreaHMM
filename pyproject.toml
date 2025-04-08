@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "hmmble"
+version = "0.0.1"
+authors = [
+  { name="Felix Becker", email="beckerfelix94@gmail.com" },
+  # please add yourself if you are a contributor
+]
+description = "A framework for combining hidden Markov models (HMMs) with modern deep learning."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+dependencies = [
+]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[project.urls]
+Homepage = "https://github.com/felbecker/hmmble"
+Issues = "https://github.com/felbecker/hmmble/issues"
